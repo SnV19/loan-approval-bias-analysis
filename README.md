@@ -1,6 +1,6 @@
 # Loan Approval Bias Detection
 
-An end-to-end machine learning project focused on detecting demographic bias in loan approval outcomes using Python.
+A machine learning project that detects bias in loan approval predictions.
 
 ---
 
